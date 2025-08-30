@@ -1,4 +1,4 @@
-# this is originally sophia sanborn's implementation of the 2D bispectrum
+# this is originally sophia sanborn's implementation of the 2D bispectrum @sophiaas on github
 import torch
 import numpy as np
 import itertools
